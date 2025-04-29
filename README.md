@@ -23,6 +23,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 # CODE
+```
 ex4.html
 <HTML>
     <HEAD>
@@ -122,7 +123,7 @@ Valuable artifacts and relics excavated from the site are preserved in the Pondi
     </body>
 </HTML>
 Boat house.html
-
+```
 
 # OUTPUT
 ![WhatsApp Image 2025-04-23 at 6 42 16 PM](https://github.com/user-attachments/assets/1f570b49-55c5-4b31-8e1e-bbc3eb19327a)
